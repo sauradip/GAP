@@ -22,16 +22,20 @@
 <h3><strong>Accepted to <a href='https://cvpr2023.thecvf.com/' target='_blank'>CVPR 2023</a></strong></h3>
 
 <h3 align="center">
-  <a href="https://arxiv.org/abs/2211.14924" target='_blank'>Paper</a> |
+  <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Nag_Post-Processing_Temporal_Action_Detection_CVPR_2023_paper.pdf" target='_blank'>Paper</a> |
   <a href="https://sauradip.github.io/project_pages/GAP/" target='_blank'>Project Page</a> |
-  <a href="https://sauradip/GAP/assets/slides.pdf" target='_blank'>Slides</a> |
-  <a href="https://sauradip/GAP/assets/psoter.pdf" target='_blank'>Poster</a> 
+  <a href="https://cvpr2023.thecvf.com/media/cvpr-2023/Slides/21267.pdf" target='_blank'>Slides</a> |
+  <a href="https://cvpr2023.thecvf.com/media/PosterPDFs/CVPR%202023/21267.png?t=1685587366.9226022" target='_blank'>Poster</a> 
 </h3>
 
 <table>
 <tr>
     <td>
-https://github.com/sauradip/GAP/assets/GAP.mp4
+
+
+https://github.com/sauradip/GAP/assets/23197350/338a0773-d78a-41f7-9f9e-3846719ce2f0
+
+
 </td>
 </tr>
 </table>
