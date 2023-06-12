@@ -43,7 +43,7 @@ https://github.com/sauradip/GAP/assets/23197350/338a0773-d78a-41f7-9f9e-3846719c
 
 ## Updates
 
-- (June, 2023) We released GAP inference code in iPhone notebook for all dataset.
+- (June, 2023) We released GAP inference code in iPython notebook for all dataset.
 - (Mar, 2023) GAP is accepted by CVPR 2023.
 
 ## Summary
