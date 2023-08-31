@@ -24,8 +24,8 @@
 <h3 align="center">
   <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Nag_Post-Processing_Temporal_Action_Detection_CVPR_2023_paper.pdf" target='_blank'>Paper</a> |
   <a href="https://sauradip.github.io/project_pages/GAP/" target='_blank'>Project Page</a> |
-  <a href="https://cvpr2023.thecvf.com/media/cvpr-2023/Slides/21267.pdf" target='_blank'>Slides</a> |
-  <a href="https://cvpr2023.thecvf.com/media/PosterPDFs/CVPR%202023/21267.png?t=1685587366.9226022" target='_blank'>Poster</a> 
+  <a href="" target='_blank'>Slides</a> |
+  <a href="" target='_blank'>Poster</a> 
 </h3>
 
 <table>
